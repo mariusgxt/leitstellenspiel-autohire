@@ -29,7 +29,7 @@ Automatisch alle Wachen auf Personalsuche stellen – ohne jede Wache einzeln an
 
 Dann oben auf den Reiter **"Console"** klicken.
 
-Falls das nicht geht, funktioniert meist ein Klick auf 3 Striche (meist oben rechts), und dann unter "Weitere Tools" -> "Entwickleroptionen".
+Falls das nicht geht, funktioniert meist ein Klick auf 3 Striche (Burgermenü 🍔), und dann unter "Weitere Tools" -> "Entwickleroptionen".
 
 ### 3. Skript einfügen & starten
 
@@ -74,7 +74,7 @@ Nein. Manche Gebäudetypen (z.B. Krankenhäuser, Schulen) unterstützen keine Pe
 Ja, da Werbeaktionen nach 1–3 Tagen ablaufen. Du kannst das Skript einfach täglich einmal ausführen.
 
 **Funktioniert das auch auf Missionschief / anderen Servern?**  
-Möglicherweise – wenn die URL-Struktur gleich ist. Einfach ausprobieren.
+Möglicherweise – wenn die URL-Struktur gleich ist. Einfach ausprobieren. 
 
 ---
 
